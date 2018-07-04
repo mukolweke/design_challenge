@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../angular_class/.idea/angular_class.iml" filepath="$PROJECT_DIR$/../angular_class/.idea/angular_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/design_challenge_one.iml" filepath="$PROJECT_DIR$/.idea/design_challenge_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_class/.idea/node_class.iml" filepath="$PROJECT_DIR$/../node_class/.idea/node_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vue_class/.idea/vue_class.iml" filepath="$PROJECT_DIR$/../vue_class/.idea/vue_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vue_menu/.idea/vue_menu.iml" filepath="$PROJECT_DIR$/../vue_menu/.idea/vue_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vuex_class/.idea/vuex_class.iml" filepath="$PROJECT_DIR$/../vuex_class/.idea/vuex_class.iml" />
+    </modules>
+  </component>
+</project>
